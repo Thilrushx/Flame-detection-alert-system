@@ -1,4 +1,3 @@
-	flame detection alert system
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
